@@ -1,3 +1,4 @@
+# Install Jellyfin on LG webOS Permanently
 Yes you read the title right, It is possible to install Jellyfin permanently on a LG webOS smart TV and that too without rooting your TV.
 
 Although I did make a guide nearly a year back, some new things have come to my attention that no longer require you to install a bulky IDE or have to extend developer mode every 50 hours.
