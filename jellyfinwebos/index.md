@@ -37,7 +37,7 @@ NOTE: The TV dos not need to be on for this to work.
 
 Thankfull the webOS dev manager fetches the API key for us and all we have to do is call on it once before the 50 hours end. There are many ways to do this, bash scripts, home assistant and IF TTT.
 
-I am going to be using a IF TTT applet. Click on this [link](ifttt.com/create) and create a account. Then create a new applet setting. Make it daily and select any random time. For the "do" stuff select web hooks.
+I am going to be using a IF TTT applet. Click on this [link](https://ifttt.com/create) and create a account. Then create a new applet setting. Make it daily and select any random time. For the "do" stuff select web hooks.
 
 In WebOS dev manager open the info tab and click on renew automatically from there copy the url and paste it in IF TTT's web hook.
 
