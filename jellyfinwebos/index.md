@@ -7,7 +7,7 @@ Although I did make a guide nearly a year back, some new things have come to my 
 
 - Access to a computer (Linux, Windows, Mac whatever)
 
-- A LG Developer account. (If you dont have one sign up [here](https://developer.lge.com/main/Intro.dev)) 
+- A LG Developer account. (If you dont have one sign up [here](https://webostv.developer.lge.com/develop/app-test/preparing-account/)) 
 
 ## Setting Up the TV
 
